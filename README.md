@@ -24,4 +24,4 @@
 * ### Postman screenshots
 * 
 * ### OpenAPI Docs
-![Image api docs](https://i.imgur.com/5ljEQ6Q.png](https://i.imgur.com/zG1mp95.png))
+![Image api docs](https://i.imgur.com/zG1mp95.png)
