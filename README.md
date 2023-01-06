@@ -3,7 +3,7 @@
 * ### gekozen thema
   > Deze Api is gebouwd rond het thema lootboxes binnen gaming. Tegenover vroeger game ik zeer weinig, maar dit weerhoudt niet dat gamen een stuk van mijn jeugd is geweest. De Api focust zich vooral op het "lootbox" aspect binnen games. de Api kan lootboxes aanmaken en hier items aan verbinden, zo is het dus mogelijk om uw eigen lootbox samen te stellen. Ook heb ik ervoor gekozen om heroes toe te voegen. Hiermee heb ik hashing en authenication mee uitgevoerd.
   >
-  > Ik heb me gehouden bij de algemene eisen van dit project. Dit betekent dus dat ik ervoor gekozen heb om geen extra uitrbreiden toe te voegen.
+  > Ik heb het gehouden bij de algemene eisen van dit project. Dit betekent dus dat ik ervoor gekozen heb om geen extra uitrbreiden toe te voegen.
 
 * ### links
 hosted Api: https://system-service-sasrobbe.cloud.okteto.net/
