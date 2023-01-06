@@ -44,6 +44,7 @@ hosted Api: https://system-service-sasrobbe.cloud.okteto.net/
   ![Heroes put](https://i.imgur.com/utOx6aD.png)
   * #### Delete a hero
   ![Heroes delete](https://i.imgur.com/Suid8ck.png)
+  ![Heroes delete proof](https://i.imgur.com/8sWg5a8.png)
   
 * ### OpenAPI Docs
 ![Image api docs](https://i.imgur.com/zG1mp95.png)
