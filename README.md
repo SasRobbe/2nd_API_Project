@@ -33,6 +33,7 @@ hosted Api: https://system-service-sasrobbe.cloud.okteto.net/
   ![Lootboxes get specific](https://i.imgur.com/w34ReYx.png)
   * #### Post Item for Lootbox
   ![Lootboxes post Item](https://i.imgur.com/tfRBj4D.png)
+  ![Item proof](https://i.imgur.com/dwRSIf3.png)
   * #### Get Items
   ![Items get](https://i.imgur.com/9nAKP7B.png)
   * #### Get Heroes
