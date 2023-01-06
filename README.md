@@ -26,7 +26,7 @@ hosted Api: https://system-service-sasrobbe.cloud.okteto.net/
 
 * ### Postman screenshots
   * #### Get Lootboxes
-  ![Lootboxes get]()
+  ![Lootboxes get](https://i.imgur.com/zgG3vml.png)
   * #### Post Lootboxes
   ![Lootboxes post](https://i.imgur.com/K2wA3l5.png)
   * #### Get specific Lootbox
