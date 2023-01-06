@@ -32,17 +32,17 @@ hosted Api: https://system-service-sasrobbe.cloud.okteto.net/
   * #### Get specific Lootbox
   ![Lootboxes get specific](https://i.imgur.com/w34ReYx.png)
   * #### Post Item for Lootbox
-  ![Lootboxes post Item]()
+  ![Lootboxes post Item](https://i.imgur.com/tfRBj4D.png)
   * #### Get Items
-  ![Items get]()
+  ![Items get](https://i.imgur.com/9nAKP7B.png)
   * #### Get Heroes
-  ![Heroes get]()
+  ![Heroes get](https://i.imgur.com/doomwux.png)
   * #### Post Heroes
-  ![Heroes post]()
+  ![Heroes post](https://i.imgur.com/PhSrJJK.png)
   * #### Update a Hero
-  ![Heroes put]()
+  ![Heroes put](https://i.imgur.com/utOx6aD.png)
   * #### Delete a hero
-  ![Heroes delete]()
+  ![Heroes delete](https://i.imgur.com/Suid8ck.png)
   
 * ### OpenAPI Docs
 ![Image api docs](https://i.imgur.com/zG1mp95.png)
