@@ -10,19 +10,19 @@ hosted Api: https://system-service-sasrobbe.cloud.okteto.net/
 
 * ### end-points
 #### GET
-  - /lootboxes : Lees alle lootboxes (heeft auth)
-  - /lootboxes/{lootbox_id} : Lees een specifieke lootbox aan de hand van een id
-  - /items : Lees alle items
-  - /heroes : Lees alle heroes
+  * /lootboxes : Lees alle lootboxes (heeft auth)
+  * /lootboxes/{lootbox_id} : Lees een specifieke lootbox aan de hand van een id
+  * /items : Lees alle items
+  * /heroes : Lees alle heroes
 #### POST
-  - /lootboxes : Maak een nieuwe lootbox aan
-  - /lootboxes/{lootbox_id}/items : Maak een nieuwe item aan voor een lootbox
-  - /heroes : Maak een nieuwe hero aan door deze een naam + secret(hashed) te geven
-  - (/token : Gebruikt om authentication mee uit te voeren)
+  * /lootboxes : Maak een nieuwe lootbox aan
+  * /lootboxes/{lootbox_id}/items : Maak een nieuwe item aan voor een lootbox
+  * /heroes : Maak een nieuwe hero aan door deze een naam + secret(hashed) te geven
+  * (/token : Gebruikt om authentication mee uit te voeren)
 #### PUT
-  - /heroes/{id} : Pas de naam van een specifieke hero aan
+  * /heroes/{id} : Pas de naam van een specifieke hero aan
 #### DELETE
-  - /heroes{id} : Verwijder een specifieke hero
+  * /heroes{id} : Verwijder een specifieke hero
 
 * ### Postman screenshots
   * #### Get Lootboxes
