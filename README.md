@@ -7,21 +7,42 @@
 
 * ### end-points
 #### GET
-- /lootboxes : Lees alle lootboxes (heeft auth)
-- /lootboxes/{lootbox_id} : Lees een specifieke lootbox aan de hand van een id
-- /items : Lees alle items
-- /heroes : Lees alle heroes
+  - /lootboxes : Lees alle lootboxes (heeft auth)
+  - /lootboxes/{lootbox_id} : Lees een specifieke lootbox aan de hand van een id
+  - /items : Lees alle items
+  - /heroes : Lees alle heroes
 #### POST
-- /lootboxes : Maak een nieuwe lootbox aan
-- /lootboxes/{lootbox_id}/items : Maak een nieuwe item aan voor een lootbox
-- /heroes : Maak een nieuwe hero aan door deze een naam + secret(hashed) te geven
-- (/token : Gebruikt om authentication mee uit te voeren)
+  - /lootboxes : Maak een nieuwe lootbox aan
+  - /lootboxes/{lootbox_id}/items : Maak een nieuwe item aan voor een lootbox
+  - /heroes : Maak een nieuwe hero aan door deze een naam + secret(hashed) te geven
+  - (/token : Gebruikt om authentication mee uit te voeren)
 #### PUT
-- /heroes/{id} : Pas de naam van een specifieke hero aan
+  - /heroes/{id} : Pas de naam van een specifieke hero aan
 #### DELETE
-- /heroes{id} : Verwijder een specifieke hero
+  - /heroes{id} : Verwijder een specifieke hero
 
 * ### Postman screenshots
-* 
+  * #### Get Lootboxes
+  ![Lootboxes get]()
+  * #### Post Lootboxes
+  ![Lootboxes post](https://i.imgur.com/K2wA3l5.png)
+  * #### Get specific Lootbox
+  ![Lootboxes get specific](https://i.imgur.com/w34ReYx.png)
+  * #### Post Item for Lootbox
+  ![Lootboxes post Item]()
+  * #### Get Items
+  ![Items get]()
+  * #### Get Heroes
+  ![Heroes get]()
+  * #### Post Heroes
+  ![Heroes post]()
+  * #### Update a Hero
+  ![Heroes put]()
+  * #### Delete a hero
+  ![Heroes delete]()
+  
 * ### OpenAPI Docs
 ![Image api docs](https://i.imgur.com/zG1mp95.png)
+
+* ### Authentication
+![Auth](https://i.imgur.com/clfpQ8x.png)
