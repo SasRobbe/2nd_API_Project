@@ -5,6 +5,9 @@
   >
   > Ik heb me gehouden bij de algemene eisen van dit project. Dit betekent dus dat ik ervoor gekozen heb om geen extra uitrbreiden toe te voegen.
 
+* ### links
+hosted Api: https://system-service-sasrobbe.cloud.okteto.net/
+
 * ### end-points
 #### GET
   - /lootboxes : Lees alle lootboxes (heeft auth)
